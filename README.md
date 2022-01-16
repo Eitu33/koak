@@ -1,6 +1,6 @@
 # KOAK - Advanced Functional Programming
 
-KOAK is the last project of EPITECH's functional programming major.
+KOAK is the last project of EPITECH's 3rd year functional programming major.
 
 You need to implement a compiler of the KOAK language which is a simplified version of the original [Kaleidoscope Language](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html).
 
